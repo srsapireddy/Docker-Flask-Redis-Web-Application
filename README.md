@@ -45,6 +45,18 @@ docker-compose up
 docker-compose down
 ```
 
+### Running the Code
+```
+docker-compose up
+```
+
+![image](https://github.com/srsapireddy/Docker/assets/32967087/400bd65c-552f-49c3-8481-004e6f7020cf)
+![image](https://github.com/srsapireddy/Docker/assets/32967087/97e1b695-db49-4d5e-be40-011494df8c82)
+
+#### Method 2:
+![image](https://github.com/srsapireddy/Docker/assets/32967087/bf853bf4-aaba-4fcb-b045-c9f76a3c39c7)
+
+
 
 
 
